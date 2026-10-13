@@ -1,2 +1,2 @@
-# Dvcp-projet
-practices-for-python
+# Hate-the-other-side
+build the future through codes 
