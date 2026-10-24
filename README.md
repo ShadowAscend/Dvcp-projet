@@ -50,7 +50,4 @@ calculator-project/
 The purpose of this project is to practise Python programming, including variables, user input, conditional statements, and basic arithmetic operations.
 
 ## 👨‍💻 Author
-Created by [Your Name].
-
-## 📜 License
-This project is open source and available for learning and educational purposes.
+Created by [Nwabekee Chidera]
